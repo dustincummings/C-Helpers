@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{F45F19B0-AFEE-499A-BDB8-DF2F3415FB17}</ProjectGuid>
+    <ProjectGuid>{BD6619D1-2353-4159-9F66-336672917CF4}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>HelloWorld</RootNamespace>
-    <AssemblyName>HelloWorld</AssemblyName>
+    <RootNamespace>PolymorphismChallenge</RootNamespace>
+    <AssemblyName>PolymorphismChallenge</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,8 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ConstantsC.cs" />
-    <Compile Include="Methods.cs" />
+    <Compile Include="Audi.cs" />
+    <Compile Include="BMW.cs" />
+    <Compile Include="Car.cs" />
+    <Compile Include="CarIDInfo.cs" />
+    <Compile Include="M3.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

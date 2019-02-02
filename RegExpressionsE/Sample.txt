@@ -1,0 +1,33 @@
+﻿1234567890	
+			
+317-555-2424
+317-258-8425
+217-213-3577
+317-834-8469
+317.258.8425
+317#258#8425
+0175/12345678
++49165/12312347
+0049165/12312347
+		
+abcdefghijklmnopqrstuvwxyz
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+			
+LaLa La La LaLa
+
+Mr. Cummings
+Mr Cummings
+Mr Sweeney
+Mr. C
+Ms Smith
+Ms Jackson
+
+https://www.tutorials.eu
+https://tuturials.eu
+http://www.tutorials.eu
+http://tuturials.eu
+
+test@test.com
+
+MetaCharacters (Need to be escaped):
+.[{()\^$|?*+

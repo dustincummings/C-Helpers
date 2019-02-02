@@ -8,8 +8,14 @@ namespace HelloWorld
 {
     class Program
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
+        }
+
+        public void WriteSomething()
+        {
+            Console.WriteLine("I am called a method");
+            Console.Read();
         }
     }
 }
